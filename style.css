@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    pading: 0px;
+
+}
+
+section{
+    height: 100vh;
+
+} 
+
+#inicio{
+    background-color: rgb(91, 158, 135);
+}
+#sobremi{
+    background-color: rgb(69, 178, 18);
+}
+
+
+#contacto{
+    background-color: rgb(154, 98, 30);
+}
+
+#trabajo{
+    background-color: rgb(210, 244, 188);
+
+}
+
